@@ -1,5 +1,6 @@
 ---
 layout: page
+---
 
 # Searching assistive technology
 
