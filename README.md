@@ -1,3 +1,6 @@
+---
+layout: page
+
 # Searching assistive technology
 
 A place for discussions about assistive technology search techniques and needs
